@@ -1,0 +1,18 @@
+export enum Task {
+    AddPagedataImport,
+    ChangeConstructor,
+    ChangeToPagedata,
+    CheckAndCreatePagedataFile,
+    ClearConstructorAddSuper,
+    DeleteAllFiles,
+    DeleteElem,
+    ModifyConstructor,
+    RemoveAllImplements,
+    RemoveConfigureLanguage,
+    RemovePagedataImports,
+    TaraToPage,
+    TypeAnnotationToPrivate,
+    VisitToGoto,
+    WaitToWaitForTimeout,
+    AddImportAuthServiceAndPlaywright,
+}

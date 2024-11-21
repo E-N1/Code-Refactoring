@@ -1,0 +1,10 @@
+node_modules/
+/playwright-report/
+/playwright/.cache/
+.idea/
+artifacts/
+package-lock.json
+page-object-models/auth-provider/.auth/
+/.vscode
+dist/
+.env
